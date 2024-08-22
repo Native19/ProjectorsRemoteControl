@@ -1,0 +1,2 @@
+get(0;Power)
+SET(0;Power;1)
